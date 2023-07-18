@@ -1,11 +1,12 @@
 
 ## Title
 
-Calculator
+Stopwatch
 
 
 ## Description 
-A simple and user-friendly web-based calculator built using HTML, CSS, and JavaScript. Perform basic arithmetic operations, delete characters, and evaluate expressions with ease. The calculator features a clean and responsive design, making it accessible on various devices. Customize the calculator's appearance using CSS and leverage Font Awesome icons for visual appeal. An ideal addition to any web development project.
+
+Stopwatch is a customizable stopwatch web application. It allows you to track time with ease and personalize the appearance to your liking. Explore and modify the code to create your own unique stopwatch experience.
 
 ## Authors
 
@@ -32,23 +33,15 @@ Unleash your creativity and personalize the calculator according to your style!
 
 ## Features
 
+   1. Customizable background image and font color.
 
-   1. Basic arithmetic operations: Addition, subtraction, multiplication, and division.
+   2. Easy modification of HTML, CSS, and JavaScript code.
 
-   2. Decimal point support and clearing display.
+   3. Accurate tracking of time with hours, minutes, and seconds display.
 
-   3. Delete last character and evaluate expressions.
+   4. Start, stop, and reset functionality for convenience.
 
-   4. User-friendly design with responsive layout.
-
-   5. Styling with custom CSS for an appealing visual experience.
-
-   6. Use of popular web fonts for improved typography.
-
-   7. Integration of Font Awesome icons for enhanced aesthetics.
-
-
-
+   5. Simple deployment to preferred hosting platform.
 
 
 ## Contributing
